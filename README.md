@@ -1,6 +1,6 @@
-# Reactor-Games-Archive
+# Roblox Reactor Archive
 • A Collection of various versions, of Roblox sci-fi games.
-# Archive Contents
+# Game Archive Contents
 • 
 | Abbr.   | Full Title                                | Year | Versions     | Creator         | Play Link |
 |---------|--------------------------------------------|------|--------------|------------------|-----------|
@@ -12,3 +12,9 @@
 | DCC     | Discover Computer Core                     | 2014 | 1 – 1233     | @KikosVids       | [Play](#) |
 | KBCC    | KikosVids Builders Computer Core           | 2014 | 1 – 100      | @KikosVids       | [Play](#) |
 | UPC     | Unnamed Power Core                         | 2017 | 1 – 1295     | @Tecc_src        | [Play](#) |
+# Audio Archive Contents
+• 
+| Title        | Year | Creator        
+|--------------|------|------------------|
+| Audio        | 2016 | @JustSimplyWild  |
+
