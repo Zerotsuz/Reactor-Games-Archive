@@ -5,10 +5,10 @@
 | Abbr.   | Full Title                                | Year | Versions     | Creator         | Play Link |
 |---------|--------------------------------------------|------|--------------|------------------|-----------|
 | QSML1   | Quantum Science Multipurpose Labs 1        | 2016 | 1 – 652      | @JustSimplyWild  | [Play](#) |
-| IBCC    | Intelligent Builders Computer Core         | 2016 | 100 – 100    | @DontLuck2       | [Play](#) |
-| IIUR    | Innovation Inc. Uranium Refinery           | 2014 | 100 – 100    | @TheNexusAvenger | [Play](#) |
-| UCC2    | Unnamed Computer Core 2                    | 2016 | 100 – 100    | @gmhs2           | [Play](#) |
-| ICC     | Internal Corporation Core                  | 2017 | 100 – 100    | @DontLuck2       | [Play](#) |
+| IBCC    | Intelligent Builders Computer Core         | 2016 | 1 – 100      | @DontLuck2       | [Play](#) |
+| IIUR    | Innovation Inc. Uranium Refinery           | 2014 | 1 – 100      | @TheNexusAvenger | [Play](#) |
+| UCC2    | Unnamed Computer Core 2                    | 2016 | 1 – 130      | @gmhs2           | [Play](#) |
+| ICC     | Internal Corporation Core                  | 2017 | 1 – 100      | @DontLuck2       | [Play](#) |
 | DCC     | Discover Computer Core                     | 2014 | 1 – 1233     | @KikosVids       | [Play](#) |
-| KBCC    | KikosVids Builders Computer Core           | 2014 | 100 – 100    | @KikosVids       | [Play](#) |
-| UPC     | Unnamed Power Core                         | 2017 | 100 – 100    | @Tecc_src        | [Play](#) |
+| KBCC    | KikosVids Builders Computer Core           | 2014 | 1 – 100      | @KikosVids       | [Play](#) |
+| UPC     | Unnamed Power Core                         | 2017 | 1 – 1295     | @Tecc_src        | [Play](#) |
